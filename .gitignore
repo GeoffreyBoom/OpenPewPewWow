@@ -1,0 +1,9 @@
+*.o
+*.out
+executables
+.cproject
+.project
+*/.metadata
+.metadata
+**/*.o
+**/**/*.o
