@@ -14,15 +14,15 @@ Once compiled, it can be run by executing TD-PROJECT-X.out
 
 To edit new maps, select [edit]/[Edit]:
 
-  BLACK: creep tile.
+- BLACK: creep tile.
   
-  GREY: wall tile (where neither towers nor creeps go)
+- GREY: wall tile (where neither towers nor creeps go)
   
-  X: tower tile
+- X: tower tile
   
-  GREEN: start tile.
+- GREEN: start tile.
   
-  PURPLE: end tile. 
+- PURPLE: end tile. 
 
 You can click DONE once you have completed the map, however it won't let you finish until you have one start tile and one end tile, and a path between them. 
 
