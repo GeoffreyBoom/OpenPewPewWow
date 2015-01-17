@@ -3,10 +3,13 @@
 This was compiled on a computer running ubuntu 64bit (14.04) using the GCC Compiler. 
 
 It requires the SFML (an open source graphics library available online for free) library to be able to run.
+http://www.sfml-dev.org/download/sfml/2.1/
 
 There is a unix script called "make.sh" which uses the GCC compiler to compile all the different modules automatically. 
 
-On windows, I assume if you ran the equivalent commands (once you have SFML installed) with the GCC compiler (installable with MinGW or Cygwin), it should work
+See below for tutorials on seting up SFML with a development environement of your choice:
+http://www.sfml-dev.org/tutorials/2.2/
+
 
 ============EXECUTING=============
 
